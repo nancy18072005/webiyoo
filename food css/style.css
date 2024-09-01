@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    
+    background-color: black;
+    color: aliceblue;
+
+}
+.boxx{
+    background-color: black;
+    color: gray;
+    padding-top: 20px;
+    cursor: pointer;   
+}
+.boxx:hover{
+color: white;
+}
+.product{
+
+   text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+}
+.imgg{
+    text-align: center;
+
+    margin-right: 10px;
+    display:inline-block ;
+    border-color: yellowgreen ;
+    border-width: 2px ;
+    border-style: solid ;
+    width: 190px;
+}
+input{
+    background-color: black;
+    color: aliceblue;
+    margin: 10px;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
